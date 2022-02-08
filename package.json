@@ -2,7 +2,7 @@
   "name": "DhaniGans",
   "version": "1.0.0",
   "description": "None",
-  "main": "dhani.js",
+  "dhani": "dhani.js",
   "directories": {
     "lib": "lib"
   },
@@ -38,7 +38,7 @@
     "spinnies": "^0.5.1"
   },
   "scripts": {
-    "start": "node main",
+    "start": "node dhani",
     "test": "supervisor main"
   },
   "repository": {
