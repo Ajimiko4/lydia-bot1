@@ -2,7 +2,7 @@
 kasihlah tqtq , Kgk mau kasih tqtq ?
 oke sans rest api nya gua rusakin
 ini sc buatan gua luh jan ngaku² dah,
-Sc ini gratis jangan di jual
+Sc ini gratingan di jual
 ketahuan kgk bakal gw update + pensi uplod sc
 dan nama creator / pembuatan sc jangan di hapus 
 susah bet emang di bilangin,
