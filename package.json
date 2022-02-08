@@ -2,7 +2,7 @@
   "name": "DhaniGans",
   "version": "1.0.0",
   "description": "None",
-  "main": "dhani.js",
+  "main": "main.js",
   "directories": {
     "lib": "lib"
   },
