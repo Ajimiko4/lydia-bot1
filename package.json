@@ -39,7 +39,7 @@
 
   },
   "scripts": {
-    "start": "node dhani",
+    "start": "npm start",
     "test": "supervisor main"
   },
   "repository": {
